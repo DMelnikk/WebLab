@@ -1,10 +1,10 @@
 import React from 'react';
-import Page from './Page';
 
-const App = () => {
+
+function App () {
     return (
         <div>
-            <Page />
+            <App />
         </div>
     );
 }
